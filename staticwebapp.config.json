@@ -109,3 +109,9 @@
     ".json": "text/json"
   }
 }
+
+{
+  "networking": {
+    "allowedIpRanges": []
+  }
+}
